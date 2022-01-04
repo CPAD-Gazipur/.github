@@ -20,7 +20,7 @@
   </a>
 </div>
 
-<h3 align="center">My StatisticsMy Statistics</h3>
+<h3 align="center">Our Statistics</h3>
 
 <br/>
 
