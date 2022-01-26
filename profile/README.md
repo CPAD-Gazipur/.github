@@ -77,6 +77,9 @@
   <li>
     <a href="https://github.com/CPAD-Gazipur/Music-Player" target="_blank">Music Player</a>
   </li>
+    <li>
+    <a href="https://github.com/CPAD-Gazipur/Formula" target="_blank">Formula</a>
+  </li>
 </ol>
    
 
