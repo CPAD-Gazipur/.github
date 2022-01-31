@@ -47,6 +47,9 @@
     <li>
     <a href="https://github.com/CPAD-Gazipur/Bornomala" target="_blank">Bornomala</a>
   </li>
+    <li>
+    <a href="https://github.com/CPAD-Gazipur/Counter" target="_blank">Tozbi Counter</a>
+  </li>
   <li>
     <a href="https://github.com/CPAD-Gazipur/Profile" target="_blank">Profile</a>
   </li>
